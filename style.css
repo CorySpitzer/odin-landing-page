@@ -1,0 +1,16 @@
+body {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.dark-blue-top, .footer {
+  background-color: #1f2937;
+  color: white;
+}
+
+.grey-lower {
+  background-color: #e5e7eb;
+}
+
+.author {
+  font-weight: bold;
+}
