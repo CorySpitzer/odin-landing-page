@@ -34,8 +34,17 @@ button {
   width: 100px;
 }
 
-.top-line-container {
+.top-image {
+  width: 300px;
+}
+
+.top-line-container, .dark-blue-sub-div {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.header-sub-h-sign-up {
+  display: flex;
+  flex-direction: column;
 }
