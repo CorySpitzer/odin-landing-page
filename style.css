@@ -33,3 +33,9 @@ button {
   /* border-width: 9px; */
   width: 100px;
 }
+
+.top-line-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
