@@ -32,10 +32,19 @@ button {
   border-color: white;
 }
 
+.images {
+  display: flex;
+  justify-content: center;
+}
+
 .row-images {
   border: 4px solid #3882f6;
   /* border-width: 9px; */
   width: 100px;
+}
+
+.image-containers {
+  margin: 20px;
 }
 
 .top-image {
@@ -66,5 +75,9 @@ button {
 .call-to-action {
   display: flex;
   justify-content: space-between;
+}
+
+.footer {
+  text-align: center;
 }
 
