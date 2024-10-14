@@ -9,6 +9,10 @@ body {
 
 .grey-lower {
   background-color: #e5e7eb;
+  height: 250px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .author {
@@ -58,3 +62,4 @@ button {
   display: flex;
   flex-direction: column;
 }
+
