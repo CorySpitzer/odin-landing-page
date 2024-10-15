@@ -29,7 +29,11 @@ h3 {
   /* margin-bottom: 150px; */
 }
 
-
+a {
+  text-decoration: none;
+  color: white;
+  margin: 5px;
+}
 
 .grey-lower {
   background-color: #e5e7eb;
