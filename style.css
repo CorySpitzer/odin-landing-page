@@ -79,9 +79,36 @@ button {
   flex-direction: column;
 }
 
+.call-to-action-container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .call-to-action {
   display: flex;
   justify-content: space-between;
+  margin: 30px;
+  padding: 15px;
+  background-color: #3882f6;
+  color: white;
+  border-radius: 5px;
+}
+
+.line1, .line2 {
+  padding: 0px;
+  margin: 3px;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom-button {
+  margin: 16px;
 }
 
 .footer {
