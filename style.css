@@ -122,3 +122,10 @@ button {
   text-align: center;
 }
 
+.copyright {
+  margin: 0px ;
+  padding: 16px;
+  font-size: small;
+  color: lightgray;
+}
+
