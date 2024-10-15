@@ -17,6 +17,13 @@ body {
 
 .author {
   font-weight: bold;
+  text-align: right;
+}
+
+.quote-author-container {
+  margin-top: 40px;
+  margin-left: 140px;
+  margin-right: 140px;
 }
 
 .call-to-action-container {
