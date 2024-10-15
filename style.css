@@ -12,6 +12,20 @@ h3 {
   color: white;
 }
 
+/* .dark-blue-top {
+  display: flex;
+
+} */
+
+.top-container {
+  /* margin-top: 10px; */
+  margin-left: 180px;
+  margin-right: 180px;
+  /* margin-bottom: 150px; */
+}
+
+
+
 .grey-lower {
   background-color: #e5e7eb;
   height: 250px ;
@@ -69,6 +83,11 @@ button {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding-top: 10px;
+}
+
+.dark-blue-sub-div {
+  padding-bottom: 70px;
 }
 
 .header-sub-h-sign-up {
