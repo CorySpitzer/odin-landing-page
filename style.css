@@ -77,6 +77,8 @@ button {
 
 .top-image {
   width: 300px;
+  margin-left: 30px;
+  border-radius: 3px;
 }
 
 .top-line-container, .dark-blue-sub-div {
@@ -90,9 +92,10 @@ button {
   padding-bottom: 70px;
 }
 
-.header-sub-h-sign-up {
+.header-sub-header-sign-up {
   display: flex;
   flex-direction: column;
+  /* margin-right: 15px; */
 }
 
 .images {
