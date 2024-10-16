@@ -17,10 +17,11 @@ h3 {
   color: white;
 }
 
-/* .dark-blue-top {
+.dark-blue-top {
   display: flex;
+  justify-content: center;
 
-} */
+}
 
 .top-container {
   /* margin-top: 10px; */
@@ -68,11 +69,6 @@ button {
   border-color: white;
 }
 
-.images {
-  display: flex;
-  justify-content: center;
-}
-
 .row-images {
   border: 4px solid #3882f6;
   /* border-width: 9px; */
@@ -110,6 +106,7 @@ button {
 .images {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .image-containers {
